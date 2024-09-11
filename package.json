@@ -1,0 +1,29 @@
+{
+    "name": "astro-dependencies",
+    "version": "1.0.0",
+    "main": "dependencies.js",
+    "type": "module",
+    "scripts": {
+        "start": "dependencies.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "astro",
+        "dependencies"
+    ],
+    "author": "Rudi Farkas @rudifa rudi.farkas@gmail.com",
+    "license": "MIT",
+    "description": "Generate a graph of the dependencies between astro files in a project.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rudifa/astro-dependencies.git"
+    },
+    "dependencies": {
+        "@viz-js/viz": "^3.8.0",
+        "graphviz": "^0.0.9",
+        "minimist": "^1.2.8"
+    },
+    "engines": {
+        "node": ">=20.0.0"
+    }
+}
