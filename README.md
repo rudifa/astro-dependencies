@@ -4,7 +4,7 @@ This script generates a (very basic) graph of the dependencies in an astro proje
 
 ```
 my-astro-project % ../astro-dependencies/astro-deps.js -h
-Usage: dependencies [options]
+Usage: astro-deps.js [options]
 
 Generate a graph of the dependencies between astro files in a project.
 
