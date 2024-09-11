@@ -17,7 +17,7 @@ Options:
 ## Example
 
 ```
-astro-demo % ../astro-dependencies/dependencies.js -c                                                             [main L|…3]
+astro-demo % ../astro-dependencies/astro-deps.js -c                                                             [main L|…3]
 File created at ./dependencies.json (327 bytes)
 File created at ./dependencies.dot (628 bytes)
 File created at ./dependencies.svg (5479 bytes)
