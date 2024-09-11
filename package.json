@@ -1,6 +1,9 @@
 {
     "name": "astro-dependencies",
-    "version": "1.0.0",
+    "description": "Generate a graph of the dependencies between astro files in a project.",
+    "version": "0.1.0",
+    "author": "Rudi Farkas @rudifa rudi.farkas@gmail.com",
+    "license": "MIT",
     "main": "astro-deps.js",
     "type": "module",
     "scripts": {
@@ -11,9 +14,6 @@
         "astro",
         "dependencies"
     ],
-    "author": "Rudi Farkas @rudifa rudi.farkas@gmail.com",
-    "license": "MIT",
-    "description": "Generate a graph of the dependencies between astro files in a project.",
     "repository": {
         "type": "git",
         "url": "https://github.com/rudifa/astro-dependencies.git"
